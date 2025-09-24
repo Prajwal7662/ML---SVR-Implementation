@@ -1,4 +1,5 @@
 Support Vector Classifier (SVC) in Machine Learning
+
 📌 Introduction
 
 Support Vector Classifier (SVC) is a supervised machine learning algorithm based on Support Vector Machines (SVMs). It is widely used for classification problems. The main idea is to find an optimal hyperplane that separates data points belonging to different classes with the maximum possible margin. SVC can handle both linear and non-linear classification problems using the kernel trick.
@@ -53,7 +54,10 @@ Bioinformatics (protein classification, gene prediction).
 
 Face and speech recognition systems.
 
+
+
 Support Vector Regressor (SVR) in Machine Learning
+
 📌 Introduction
 
 Support Vector Regressor (SVR) is a supervised machine learning algorithm derived from Support Vector Machines (SVMs), designed for regression tasks. Instead of finding a hyperplane that separates classes (as in classification), SVR tries to fit the data within a margin of tolerance (epsilon). The algorithm attempts to minimize errors while maintaining model complexity, making it effective for both linear and non-linear regression problems.
