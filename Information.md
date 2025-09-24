@@ -1,4 +1,4 @@
-Support Vector Classifier (SVC) in Machine Learning
+✨Support Vector Classifier (SVC) in Machine Learning
 
 📌 Introduction
 
@@ -56,7 +56,8 @@ Face and speech recognition systems.
 
 
 
-Support Vector Regressor (SVR) in Machine Learning
+
+✨Support Vector Regressor (SVR) in Machine Learning
 
 📌 Introduction
 
