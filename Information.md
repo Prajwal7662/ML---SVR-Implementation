@@ -1,5 +1,6 @@
 ✨Support Vector Classifier (SVC) in Machine Learning
 
+
 📌 Introduction
 
 Support Vector Classifier (SVC) is a supervised machine learning algorithm based on Support Vector Machines (SVMs). It is widely used for classification problems. The main idea is to find an optimal hyperplane that separates data points belonging to different classes with the maximum possible margin. SVC can handle both linear and non-linear classification problems using the kernel trick.
