@@ -7,6 +7,7 @@ Support Vector Classifier (SVC) is a supervised machine learning algorithm based
 
 ⚙️ Key Concepts
 
+
 Hyperplane: A decision boundary that separates different classes.
 
 Margin: The distance between the hyperplane and the nearest data points of each class.
