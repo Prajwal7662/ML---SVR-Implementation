@@ -30,6 +30,7 @@ Evaluating the model using performance metrics such as accuracy, precision, reca
 
 ✅ Advantages
 
+
 Effective in high-dimensional spaces.
 
 Performs well even when the number of features is greater than the number of samples.
